@@ -17,5 +17,6 @@ inventory_loc.php
 
 inventory.ino
 
-    Arduino program file, program that integrates ESP8266 NodeMCU with a RFID reader to read and keep traack of the inventory.
-		The products in the inventory are equipped with RFID tags.
+    Arduino program file, program that integrates ESP8266 NodeMCU with a RFID reader to read and keep track of the inventory.
+		The products in the inventory are equipped with RFID tags. Which are tracked and automatically updated int the cloud
+		database
